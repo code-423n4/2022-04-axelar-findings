@@ -1,0 +1,9 @@
+{
+  "contest": 109,
+  "handle": "rishabh",
+  "address": "0xaf55d73461836577FEEbe04Ca5CFFFD1918B345C",
+  "risk": "3",
+  "title": "Anybody can destroy contract and take all the ether",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2022-04-axelar-findings/issues/3"
+}
