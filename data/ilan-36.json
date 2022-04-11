@@ -1,0 +1,9 @@
+{
+  "contest": 109,
+  "handle": "ilan",
+  "address": "0xEEBd02ddc406754621ff674c19f048fdF95C6D2B",
+  "risk": "2",
+  "title": "`transferOwnership` potentially locking contract",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2022-04-axelar-findings/issues/36"
+}
