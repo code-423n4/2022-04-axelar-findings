@@ -1,0 +1,9 @@
+{
+  "contest": 109,
+  "handle": "Chom",
+  "address": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27",
+  "risk": "3",
+  "title": "Tokens will be forever burned if contract call never success. Moreover, it may not retriable after OLD_KEY_RETENTION + 1 epochs has passed.",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-04-axelar-findings/issues/24"
+}
