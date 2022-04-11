@@ -1,0 +1,9 @@
+{
+  "contest": 109,
+  "handle": "sseefried",
+  "address": "0x033e21B02373489ff2f7a2c2f1B109a1bC6158aD",
+  "risk": "2",
+  "title": "Cross-chain smart contract calls can revert but source chain tokens remain burnt and are not refunded",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2022-04-axelar-findings/issues/35"
+}
